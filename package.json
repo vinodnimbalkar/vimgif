@@ -1,0 +1,16 @@
+{
+  "name": "vimgif",
+  "version": "1.0.0",
+  "description": "vimgif is proxy serverless function deployed on vercel to get random vim gif image",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["serverless", "vercel", "random", "vimgif"],
+  "author": "Vinod Nimbalkar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
+}
