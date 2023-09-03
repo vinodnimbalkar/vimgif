@@ -1,11 +1,11 @@
 # VimGif
 
-Get random gif image of vim editor with hot-keys.
+Get a random gif image of the Vim editor with hotkeys.
 
 [![VimGif](https://vimgif.vercel.app/api)](https://github.com/vinodnimbalkar/vimgif)
 
-## How do I run this on github readme?
-Copy paste this into your markdown content, and that's it. Simple!
+## How do I run this on GitHub readme?
+Copy and paste this into your markdown content, and that's it. Simple!
 ```md
 [![VimGif](https://vimgif.vercel.app/api)](https://github.com/vinodnimbalkar/vimgif)
 ```
