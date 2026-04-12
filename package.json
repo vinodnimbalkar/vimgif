@@ -10,7 +10,7 @@
   "author": "Vinod Nimbalkar",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.13.5",
+    "axios": "^1.15.0",
     "dotenv": "^8.2.0"
   }
 }
